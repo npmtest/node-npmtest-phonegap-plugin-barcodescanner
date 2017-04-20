@@ -1,1 +1,39 @@
-{     "devDependencies": {         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-phonegap-plugin-barcodescanner",     "homepage": "https://github.com/npmtest/node-npmtest-phonegap-plugin-barcodescanner",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-phonegap-plugin-barcodescanner.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### basic test coverage for  [phonegap-plugin-barcodescanner (v6.0.6)](https://github.com/phonegap/phonegap-plugin-barcodescanner#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-phonegap-plugin-barcodescanner.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-phonegap-plugin-barcodescanner) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-phonegap-plugin-barcodescanner.svg)](https://travis-ci.org/npmtest/node-npmtest-phonegap-plugin-barcodescanner)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-phonegap-plugin-barcodescanner",
+    "keywords": [
+        "coverage",
+        "test",
+        "phonegap-plugin-barcodescanner"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_phonegap_plugin_barcodescanner.js",
+    "name": "npmtest-phonegap-plugin-barcodescanner",
+    "nameAlias": "npmtest_phonegap_plugin_barcodescanner",
+    "nameOriginal": "npmtest-phonegap-plugin-barcodescanner",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-phonegap-plugin-barcodescanner.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
