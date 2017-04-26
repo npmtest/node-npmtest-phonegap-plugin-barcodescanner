@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-phonegap-plugin-barcodescanner/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-phonegap-plugin-barcodescanner/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-phonegap-plugin-barcodescanner/build/coverage.html/index.html)
 
@@ -35,9 +35,12 @@
 ```json
 
 {
-    "name": "phonegap-plugin-barcodescanner",
-    "version": "6.0.6",
-    "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
+    "author": {
+        "name": "Adobe PhoneGap Team"
+    },
+    "bugs": {
+        "url": "https://github.com/phonegap/phonegap-plugin-barcodescanner/issues"
+    },
     "cordova": {
         "id": "phonegap-plugin-barcodescanner",
         "platforms": [
@@ -49,10 +52,25 @@
             "browser"
         ]
     },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
+    "dependencies": {},
+    "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
+    "devDependencies": {
+        "jasmine-node": "1.14.5",
+        "pluginpub": "^0.0.6"
     },
+    "directories": {},
+    "dist": {
+        "shasum": "c32df9a65332114d63ddbe395f0f4e136d3a20f2",
+        "tarball": "https://registry.npmjs.org/phonegap-plugin-barcodescanner/-/phonegap-plugin-barcodescanner-6.0.6.tgz"
+    },
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ],
+    "gitHead": "1fb633e6e22f97b1d293b1ed94f92f427640dfad",
+    "homepage": "https://github.com/phonegap/phonegap-plugin-barcodescanner#readme",
     "keywords": [
         "ecosystem:cordova",
         "ecosystem:phonegap",
@@ -64,25 +82,38 @@
         "cordova-browser",
         "cordova:plugin"
     ],
-    "engines": [
+    "license": "MIT",
+    "maintainers": [
         {
-            "name": "cordova",
-            "version": ">=3.0.0"
+            "name": "eddyverbruggen"
+        },
+        {
+            "name": "kotikov.vladimir"
+        },
+        {
+            "name": "macdonst"
+        },
+        {
+            "name": "stevegill"
+        },
+        {
+            "name": "timbarham"
+        },
+        {
+            "name": "timwindsor"
         }
     ],
-    "author": "Adobe PhoneGap Team",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/phonegap/phonegap-plugin-barcodescanner/issues"
+    "name": "phonegap-plugin-barcodescanner",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
     },
-    "homepage": "https://github.com/phonegap/phonegap-plugin-barcodescanner#readme",
     "scripts": {
         "test": "jasmine-node --color spec"
     },
-    "devDependencies": {
-        "jasmine-node": "1.14.5",
-        "pluginpub": "^0.0.6"
-    }
+    "version": "6.0.6",
+    "bin": {}
 }
 ```
 
