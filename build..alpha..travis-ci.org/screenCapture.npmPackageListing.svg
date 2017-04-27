@@ -1,86 +1,86 @@
 <svg height="1326" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1326" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-26 02:55:13 +0000  6583597 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-26 02:55:13 +0000    62271 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-26 02:55:13 +0000     7016 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-26 02:55:13 +0000     2130 bytes  hooks/windows/check-arch.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-26 02:55:13 +0000     3679 bytes  package.json</tspan>
-<tspan x="10" y="106">  5.  2017-04-26 02:55:13 +0000     6376 bytes  plugin.xml</tspan>
-<tspan x="10" y="122">  6.  2017-04-26 02:55:13 +0000     2257 bytes  spec/helper/cordova.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-26 02:55:13 +0000     2670 bytes  spec/index.spec.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-26 02:55:13 +0000       94 bytes  src/android/README.md</tspan>
-<tspan x="10" y="170">  9.  2017-04-26 02:55:13 +0000   997644 bytes  src/android/barcodescanner-release-2.1.2.aar</tspan>
-<tspan x="10" y="186"> 10.  2017-04-26 02:55:13 +0000      559 bytes  src/android/barcodescanner.gradle</tspan>
-<tspan x="10" y="202"> 11.  2017-04-26 02:55:13 +0000    12567 bytes  src/android/com/phonegap/plugins/barcodescanner/\</tspan>
+<tspan x="10" y="26">  0.  2017-04-27 20:08:58 +0000  6583597 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-27 20:08:58 +0000    62271 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-27 20:08:58 +0000     7016 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-27 20:08:58 +0000     2130 bytes  hooks/windows/check-arch.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-27 20:08:58 +0000     3679 bytes  package.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-27 20:08:58 +0000     6376 bytes  plugin.xml</tspan>
+<tspan x="10" y="122">  6.  2017-04-27 20:08:58 +0000     2257 bytes  spec/helper/cordova.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-27 20:08:58 +0000     2670 bytes  spec/index.spec.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-27 20:08:58 +0000       94 bytes  src/android/README.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-27 20:08:58 +0000   997644 bytes  src/android/barcodescanner-release-2.1.2.aar</tspan>
+<tspan x="10" y="186"> 10.  2017-04-27 20:08:58 +0000      559 bytes  src/android/barcodescanner.gradle</tspan>
+<tspan x="10" y="202"> 11.  2017-04-27 20:08:58 +0000    12567 bytes  src/android/com/phonegap/plugins/barcodescanner/\</tspan>
 <tspan x="10" y="218">BarcodeScanner.java</tspan>
-<tspan x="10" y="234"> 12.  2017-04-26 02:55:13 +0000    38284 bytes  src/blackberry10/LICENSE</tspan>
-<tspan x="10" y="250"> 13.  2017-04-26 02:55:13 +0000     5479 bytes  src/blackberry10/index.js</tspan>
-<tspan x="10" y="266"> 14.  2017-04-26 02:55:13 +0000   270830 bytes  src/blackberry10/native/device/libBarcodeScanner\</tspan>
+<tspan x="10" y="234"> 12.  2017-04-27 20:08:58 +0000    38284 bytes  src/blackberry10/LICENSE</tspan>
+<tspan x="10" y="250"> 13.  2017-04-27 20:08:58 +0000     5479 bytes  src/blackberry10/index.js</tspan>
+<tspan x="10" y="266"> 14.  2017-04-27 20:08:58 +0000   270830 bytes  src/blackberry10/native/device/libBarcodeScanner\</tspan>
 <tspan x="10" y="282">.so</tspan>
-<tspan x="10" y="298"> 15.  2017-04-26 02:55:13 +0000      438 bytes  src/blackberry10/native/public/json/autolink.h</tspan>
-<tspan x="10" y="314"> 16.  2017-04-26 02:55:13 +0000     1536 bytes  src/blackberry10/native/public/json/config.h</tspan>
-<tspan x="10" y="330"> 17.  2017-04-26 02:55:13 +0000     1290 bytes  src/blackberry10/native/public/json/features.h</tspan>
-<tspan x="10" y="346"> 18.  2017-04-26 02:55:13 +0000      735 bytes  src/blackberry10/native/public/json/forwards.h</tspan>
-<tspan x="10" y="362"> 19.  2017-04-26 02:55:13 +0000      200 bytes  src/blackberry10/native/public/json/json.h</tspan>
-<tspan x="10" y="378"> 20.  2017-04-26 02:55:13 +0000     6486 bytes  src/blackberry10/native/public/json/reader.h</tspan>
-<tspan x="10" y="394"> 21.  2017-04-26 02:55:13 +0000    33960 bytes  src/blackberry10/native/public/json/value.h</tspan>
-<tspan x="10" y="410"> 22.  2017-04-26 02:55:13 +0000     6188 bytes  src/blackberry10/native/public/json/writer.h</tspan>
-<tspan x="10" y="426"> 23.  2017-04-26 02:55:13 +0000     3929 bytes  src/blackberry10/native/public/json_batchallocat\</tspan>
+<tspan x="10" y="298"> 15.  2017-04-27 20:08:58 +0000      438 bytes  src/blackberry10/native/public/json/autolink.h</tspan>
+<tspan x="10" y="314"> 16.  2017-04-27 20:08:58 +0000     1536 bytes  src/blackberry10/native/public/json/config.h</tspan>
+<tspan x="10" y="330"> 17.  2017-04-27 20:08:58 +0000     1290 bytes  src/blackberry10/native/public/json/features.h</tspan>
+<tspan x="10" y="346"> 18.  2017-04-27 20:08:58 +0000      735 bytes  src/blackberry10/native/public/json/forwards.h</tspan>
+<tspan x="10" y="362"> 19.  2017-04-27 20:08:58 +0000      200 bytes  src/blackberry10/native/public/json/json.h</tspan>
+<tspan x="10" y="378"> 20.  2017-04-27 20:08:58 +0000     6486 bytes  src/blackberry10/native/public/json/reader.h</tspan>
+<tspan x="10" y="394"> 21.  2017-04-27 20:08:58 +0000    33960 bytes  src/blackberry10/native/public/json/value.h</tspan>
+<tspan x="10" y="410"> 22.  2017-04-27 20:08:58 +0000     6188 bytes  src/blackberry10/native/public/json/writer.h</tspan>
+<tspan x="10" y="426"> 23.  2017-04-27 20:08:58 +0000     3929 bytes  src/blackberry10/native/public/json_batchallocat\</tspan>
 <tspan x="10" y="442">or.h</tspan>
-<tspan x="10" y="458"> 24.  2017-04-26 02:55:13 +0000    12669 bytes  src/blackberry10/native/public/json_internalarra\</tspan>
+<tspan x="10" y="458"> 24.  2017-04-27 20:08:58 +0000    12669 bytes  src/blackberry10/native/public/json_internalarra\</tspan>
 <tspan x="10" y="474">y.inl</tspan>
-<tspan x="10" y="490"> 25.  2017-04-26 02:55:13 +0000    16292 bytes  src/blackberry10/native/public/json_internalmap.\</tspan>
+<tspan x="10" y="490"> 25.  2017-04-27 20:08:58 +0000    16292 bytes  src/blackberry10/native/public/json_internalmap.\</tspan>
 <tspan x="10" y="506">inl</tspan>
-<tspan x="10" y="522"> 26.  2017-04-26 02:55:13 +0000    21100 bytes  src/blackberry10/native/public/json_reader.cpp</tspan>
-<tspan x="10" y="538"> 27.  2017-04-26 02:55:13 +0000    39212 bytes  src/blackberry10/native/public/json_value.cpp</tspan>
-<tspan x="10" y="554"> 28.  2017-04-26 02:55:13 +0000     7367 bytes  src/blackberry10/native/public/json_valueiterato\</tspan>
+<tspan x="10" y="522"> 26.  2017-04-27 20:08:58 +0000    21100 bytes  src/blackberry10/native/public/json_reader.cpp</tspan>
+<tspan x="10" y="538"> 27.  2017-04-27 20:08:58 +0000    39212 bytes  src/blackberry10/native/public/json_value.cpp</tspan>
+<tspan x="10" y="554"> 28.  2017-04-27 20:08:58 +0000     7367 bytes  src/blackberry10/native/public/json_valueiterato\</tspan>
 <tspan x="10" y="570">r.inl</tspan>
-<tspan x="10" y="586"> 29.  2017-04-26 02:55:13 +0000    20314 bytes  src/blackberry10/native/public/json_writer.cpp</tspan>
-<tspan x="10" y="602"> 30.  2017-04-26 02:55:13 +0000     7608 bytes  src/blackberry10/native/public/plugin.cpp</tspan>
-<tspan x="10" y="618"> 31.  2017-04-26 02:55:13 +0000     2513 bytes  src/blackberry10/native/public/plugin.h</tspan>
-<tspan x="10" y="634"> 32.  2017-04-26 02:55:13 +0000     6042 bytes  src/blackberry10/native/public/tokenizer.cpp</tspan>
-<tspan x="10" y="650"> 33.  2017-04-26 02:55:13 +0000     2004 bytes  src/blackberry10/native/public/tokenizer.h</tspan>
-<tspan x="10" y="666"> 34.  2017-04-26 02:55:13 +0000  1553593 bytes  src/blackberry10/native/simulator/libBarcodeScan\</tspan>
+<tspan x="10" y="586"> 29.  2017-04-27 20:08:58 +0000    20314 bytes  src/blackberry10/native/public/json_writer.cpp</tspan>
+<tspan x="10" y="602"> 30.  2017-04-27 20:08:58 +0000     7608 bytes  src/blackberry10/native/public/plugin.cpp</tspan>
+<tspan x="10" y="618"> 31.  2017-04-27 20:08:58 +0000     2513 bytes  src/blackberry10/native/public/plugin.h</tspan>
+<tspan x="10" y="634"> 32.  2017-04-27 20:08:58 +0000     6042 bytes  src/blackberry10/native/public/tokenizer.cpp</tspan>
+<tspan x="10" y="650"> 33.  2017-04-27 20:08:58 +0000     2004 bytes  src/blackberry10/native/public/tokenizer.h</tspan>
+<tspan x="10" y="666"> 34.  2017-04-27 20:08:58 +0000  1553593 bytes  src/blackberry10/native/simulator/libBarcodeScan\</tspan>
 <tspan x="10" y="682">ner.so</tspan>
-<tspan x="10" y="698"> 35.  2017-04-26 02:55:13 +0000     3026 bytes  src/blackberry10/native/src/Logger.cpp</tspan>
-<tspan x="10" y="714"> 36.  2017-04-26 02:55:13 +0000     1420 bytes  src/blackberry10/native/src/Logger.hpp</tspan>
-<tspan x="10" y="730"> 37.  2017-04-26 02:55:13 +0000     3172 bytes  src/blackberry10/native/src/barcodescanner_js.cp\</tspan>
+<tspan x="10" y="698"> 35.  2017-04-27 20:08:58 +0000     3026 bytes  src/blackberry10/native/src/Logger.cpp</tspan>
+<tspan x="10" y="714"> 36.  2017-04-27 20:08:58 +0000     1420 bytes  src/blackberry10/native/src/Logger.hpp</tspan>
+<tspan x="10" y="730"> 37.  2017-04-27 20:08:58 +0000     3172 bytes  src/blackberry10/native/src/barcodescanner_js.cp\</tspan>
 <tspan x="10" y="746">p</tspan>
-<tspan x="10" y="762"> 38.  2017-04-26 02:55:13 +0000     1300 bytes  src/blackberry10/native/src/barcodescanner_js.hp\</tspan>
+<tspan x="10" y="762"> 38.  2017-04-27 20:08:58 +0000     1300 bytes  src/blackberry10/native/src/barcodescanner_js.hp\</tspan>
 <tspan x="10" y="778">p</tspan>
-<tspan x="10" y="794"> 39.  2017-04-26 02:55:13 +0000    29591 bytes  src/blackberry10/native/src/barcodescanner_ndk.c\</tspan>
+<tspan x="10" y="794"> 39.  2017-04-27 20:08:58 +0000    29591 bytes  src/blackberry10/native/src/barcodescanner_ndk.c\</tspan>
 <tspan x="10" y="810">pp</tspan>
-<tspan x="10" y="826"> 40.  2017-04-26 02:55:13 +0000     1526 bytes  src/blackberry10/native/src/barcodescanner_ndk.h\</tspan>
+<tspan x="10" y="826"> 40.  2017-04-27 20:08:58 +0000     1526 bytes  src/blackberry10/native/src/barcodescanner_ndk.h\</tspan>
 <tspan x="10" y="842">pp</tspan>
-<tspan x="10" y="858"> 41.  2017-04-26 02:55:13 +0000    33369 bytes  src/blackberry10/qrcode.js</tspan>
-<tspan x="10" y="874"> 42.  2017-04-26 02:55:13 +0000      528 bytes  src/browser/BarcodeScannerProxy.js</tspan>
-<tspan x="10" y="890"> 43.  2017-04-26 02:55:13 +0000    16020 bytes  src/ios/CDVBarcodeScanner.bundle/beep.caf</tspan>
-<tspan x="10" y="906"> 44.  2017-04-26 02:55:13 +0000     3173 bytes  src/ios/CDVBarcodeScanner.bundle/torch.png</tspan>
-<tspan x="10" y="922"> 45.  2017-04-26 02:55:13 +0000     3687 bytes  src/ios/CDVBarcodeScanner.bundle/torch@2x.png</tspan>
-<tspan x="10" y="938"> 46.  2017-04-26 02:55:13 +0000     4302 bytes  src/ios/CDVBarcodeScanner.bundle/torch@3x.png</tspan>
-<tspan x="10" y="954"> 47.  2017-04-26 02:55:13 +0000    46328 bytes  src/ios/CDVBarcodeScanner.mm</tspan>
-<tspan x="10" y="970"> 48.  2017-04-26 02:55:13 +0000     8142 bytes  src/ios/scannerOverlay.xib</tspan>
-<tspan x="10" y="986"> 49.  2017-04-26 02:55:13 +0000   401709 bytes  src/ios/zxing-all-in-one.cpp</tspan>
-<tspan x="10" y="1002"> 50.  2017-04-26 02:55:13 +0000   141198 bytes  src/ios/zxing-all-in-one.h</tspan>
-<tspan x="10" y="1018"> 51.  2017-04-26 02:55:13 +0000    25999 bytes  src/windows/BarcodeScannerProxy.js</tspan>
-<tspan x="10" y="1034"> 52.  2017-04-26 02:55:13 +0000     1564 bytes  src/windows/assets/plugin-barcodeScanner.css</tspan>
-<tspan x="10" y="1050"> 53.  2017-04-26 02:55:13 +0000   446464 bytes  src/windows/lib.UW/ANY/ZXing.winmd</tspan>
-<tspan x="10" y="1066"> 54.  2017-04-26 02:55:13 +0000   445952 bytes  src/windows/lib.UW/ARM/ZXing.winmd</tspan>
-<tspan x="10" y="1082"> 55.  2017-04-26 02:55:13 +0000   445952 bytes  src/windows/lib.UW/x64/ZXing.winmd</tspan>
-<tspan x="10" y="1098"> 56.  2017-04-26 02:55:13 +0000   446464 bytes  src/windows/lib.UW/x86/ZXing.winmd</tspan>
-<tspan x="10" y="1114"> 57.  2017-04-26 02:55:13 +0000     1672 bytes  src/windows/lib/Properties/AssemblyInfo.cs</tspan>
-<tspan x="10" y="1130"> 58.  2017-04-26 02:55:13 +0000     5443 bytes  src/windows/lib/Reader.cs</tspan>
-<tspan x="10" y="1146"> 59.  2017-04-26 02:55:13 +0000     6342 bytes  src/windows/lib/WinRTBarcodeReader.csproj</tspan>
-<tspan x="10" y="1162"> 60.  2017-04-26 02:55:13 +0000   446464 bytes  src/windows/lib/ZXing.winmd</tspan>
-<tspan x="10" y="1178"> 61.  2017-04-26 02:55:13 +0000     4228 bytes  src/wp8/BarcodeScanner.cs</tspan>
-<tspan x="10" y="1194"> 62.  2017-04-26 02:55:13 +0000     3535 bytes  src/wp8/BarcodeScannerTask.cs</tspan>
-<tspan x="10" y="1210"> 63.  2017-04-26 02:55:13 +0000     2411 bytes  src/wp8/BarcodeScannerUI.xaml</tspan>
-<tspan x="10" y="1226"> 64.  2017-04-26 02:55:13 +0000     6165 bytes  src/wp8/BarcodeScannerUI.xaml.cs</tspan>
-<tspan x="10" y="1242"> 65.  2017-04-26 02:55:13 +0000      550 bytes  src/wp8/assets/cancel.png</tspan>
-<tspan x="10" y="1258"> 66.  2017-04-26 02:55:13 +0000   432640 bytes  src/wp8/lib/zxing.wp8.0.dll</tspan>
-<tspan x="10" y="1274"> 67.  2017-04-26 02:55:13 +0000     1232 bytes  tests/plugin.xml</tspan>
-<tspan x="10" y="1290"> 68.  2017-04-26 02:55:13 +0000     2217 bytes  tests/tests.js</tspan>
-<tspan x="10" y="1306"> 69.  2017-04-26 02:55:13 +0000     4480 bytes  www/barcodescanner.js</tspan>
+<tspan x="10" y="858"> 41.  2017-04-27 20:08:58 +0000    33369 bytes  src/blackberry10/qrcode.js</tspan>
+<tspan x="10" y="874"> 42.  2017-04-27 20:08:58 +0000      528 bytes  src/browser/BarcodeScannerProxy.js</tspan>
+<tspan x="10" y="890"> 43.  2017-04-27 20:08:58 +0000    16020 bytes  src/ios/CDVBarcodeScanner.bundle/beep.caf</tspan>
+<tspan x="10" y="906"> 44.  2017-04-27 20:08:58 +0000     3173 bytes  src/ios/CDVBarcodeScanner.bundle/torch.png</tspan>
+<tspan x="10" y="922"> 45.  2017-04-27 20:08:58 +0000     3687 bytes  src/ios/CDVBarcodeScanner.bundle/torch@2x.png</tspan>
+<tspan x="10" y="938"> 46.  2017-04-27 20:08:58 +0000     4302 bytes  src/ios/CDVBarcodeScanner.bundle/torch@3x.png</tspan>
+<tspan x="10" y="954"> 47.  2017-04-27 20:08:58 +0000    46328 bytes  src/ios/CDVBarcodeScanner.mm</tspan>
+<tspan x="10" y="970"> 48.  2017-04-27 20:08:58 +0000     8142 bytes  src/ios/scannerOverlay.xib</tspan>
+<tspan x="10" y="986"> 49.  2017-04-27 20:08:58 +0000   401709 bytes  src/ios/zxing-all-in-one.cpp</tspan>
+<tspan x="10" y="1002"> 50.  2017-04-27 20:08:58 +0000   141198 bytes  src/ios/zxing-all-in-one.h</tspan>
+<tspan x="10" y="1018"> 51.  2017-04-27 20:08:58 +0000    25999 bytes  src/windows/BarcodeScannerProxy.js</tspan>
+<tspan x="10" y="1034"> 52.  2017-04-27 20:08:58 +0000     1564 bytes  src/windows/assets/plugin-barcodeScanner.css</tspan>
+<tspan x="10" y="1050"> 53.  2017-04-27 20:08:58 +0000   446464 bytes  src/windows/lib.UW/ANY/ZXing.winmd</tspan>
+<tspan x="10" y="1066"> 54.  2017-04-27 20:08:58 +0000   445952 bytes  src/windows/lib.UW/ARM/ZXing.winmd</tspan>
+<tspan x="10" y="1082"> 55.  2017-04-27 20:08:58 +0000   445952 bytes  src/windows/lib.UW/x64/ZXing.winmd</tspan>
+<tspan x="10" y="1098"> 56.  2017-04-27 20:08:58 +0000   446464 bytes  src/windows/lib.UW/x86/ZXing.winmd</tspan>
+<tspan x="10" y="1114"> 57.  2017-04-27 20:08:58 +0000     1672 bytes  src/windows/lib/Properties/AssemblyInfo.cs</tspan>
+<tspan x="10" y="1130"> 58.  2017-04-27 20:08:58 +0000     5443 bytes  src/windows/lib/Reader.cs</tspan>
+<tspan x="10" y="1146"> 59.  2017-04-27 20:08:58 +0000     6342 bytes  src/windows/lib/WinRTBarcodeReader.csproj</tspan>
+<tspan x="10" y="1162"> 60.  2017-04-27 20:08:58 +0000   446464 bytes  src/windows/lib/ZXing.winmd</tspan>
+<tspan x="10" y="1178"> 61.  2017-04-27 20:08:58 +0000     4228 bytes  src/wp8/BarcodeScanner.cs</tspan>
+<tspan x="10" y="1194"> 62.  2017-04-27 20:08:58 +0000     3535 bytes  src/wp8/BarcodeScannerTask.cs</tspan>
+<tspan x="10" y="1210"> 63.  2017-04-27 20:08:58 +0000     2411 bytes  src/wp8/BarcodeScannerUI.xaml</tspan>
+<tspan x="10" y="1226"> 64.  2017-04-27 20:08:58 +0000     6165 bytes  src/wp8/BarcodeScannerUI.xaml.cs</tspan>
+<tspan x="10" y="1242"> 65.  2017-04-27 20:08:58 +0000      550 bytes  src/wp8/assets/cancel.png</tspan>
+<tspan x="10" y="1258"> 66.  2017-04-27 20:08:58 +0000   432640 bytes  src/wp8/lib/zxing.wp8.0.dll</tspan>
+<tspan x="10" y="1274"> 67.  2017-04-27 20:08:58 +0000     1232 bytes  tests/plugin.xml</tspan>
+<tspan x="10" y="1290"> 68.  2017-04-27 20:08:58 +0000     2217 bytes  tests/tests.js</tspan>
+<tspan x="10" y="1306"> 69.  2017-04-27 20:08:58 +0000     4480 bytes  www/barcodescanner.js</tspan>
 </text>
 </svg>
